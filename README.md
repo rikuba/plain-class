@@ -1,4 +1,4 @@
-# plain-class
+# plain-class [![Build Status](https://travis-ci.org/rikuba/plain-class.svg?branch=master)](https://travis-ci.org/rikuba/plain-class)
 
 Base class to return a plain object from your class.
 
