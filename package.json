@@ -2,8 +2,10 @@
   "name": "plain-class",
   "version": "1.0.0",
   "description": "Base class to return a plain object",
-  "main": "index.js",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
+    "build": "tsc -p .",
     "test": "node test.js"
   },
   "repository": {
