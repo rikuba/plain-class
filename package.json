@@ -1,0 +1,25 @@
+{
+  "name": "plain-class",
+  "version": "1.0.0",
+  "description": "Base class to return a plain object",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikuba/plain-class.git"
+  },
+  "keywords": [
+    "plain",
+    "object",
+    "class",
+    "pojo"
+  ],
+  "author": "rikuba <rikuba@live.jp>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/rikuba/plain-class/issues"
+  },
+  "homepage": "https://github.com/rikuba/plain-class#readme"
+}
