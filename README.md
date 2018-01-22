@@ -12,7 +12,7 @@ npm install plain-class
 
 ## Example
 
-### Redux with TypeScript
+### Define action creator as a class in TypeScript
 
 ```typescript
 import Plain from 'plain-class';
@@ -24,6 +24,8 @@ export class RequestPosts extends Plain {
   ) { super(); }
 }
 ```
+
+### Define partial state as a class in TypeScript
 
 ```typescript
 import Plain from 'plain-class';
