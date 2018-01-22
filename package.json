@@ -1,6 +1,6 @@
 {
   "name": "plain-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base class to return a plain object from your class",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
